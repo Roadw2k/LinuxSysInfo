@@ -51,4 +51,4 @@ MIT
 
 ## Screenshot
 
-![LinuxSysInfo Screenshot](https://github.com/Roadw2k/LinuxSysInfo/blob/main/LinuxSysInfo.png?raw=true)
+![LinuxSysInfo Screenshot](https://github.com/Roadw2k/LinuxSysInfo/blob/master/LinuxSysInfo.png?raw=true)
