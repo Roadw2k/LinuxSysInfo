@@ -1,0 +1,55 @@
+# --- C++ Artifacts ---
+*.o
+*.obj
+*.a
+*.la
+*.lo
+*.slo
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+
+# --- Qt Specifics ---
+# Generated UI and MOC files
+ui_*.h
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+*.qmlc
+*.jsc
+
+# Qt Creator user settings (should NOT be shared)
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+
+# Qt build directories (standard patterns)
+build/
+build-*/
+*-build/
+
+# --- Build Systems ---
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+Makefile
+
+# qmake
+.qmake.stash
+.qmake.cache
+
+# --- Linux & General ---
+.directory
+*~
+*.swp
+*.log
+.DS_Store
