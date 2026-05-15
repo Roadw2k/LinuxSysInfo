@@ -48,3 +48,7 @@ Wayland limits desktop widget positioning and movement. For the best experience,
 ## License
 
 MIT
+
+## Screenshot
+
+![LinuxSysInfo Screenshot](https://github.com/Roadw2k/LinuxSysInfo/blob/main/LinuxSysInfo.png?raw=true)
